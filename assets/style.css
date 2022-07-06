@@ -3,13 +3,22 @@
 }
 
 body {
-  background-color: steelblue;
+  background-color: #111;
   display: flex;
   align-items: center;
   justify-content: center; 
   height: 100vh;
+  overflow: hidden;
   margin: 0;
 }
+
+.container {
+  display: flex;
+}
+
+
+
+
 
 
 
